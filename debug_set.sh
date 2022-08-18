@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#set -x #use -x option for output step by step
 set -n
 pwd
 date
