@@ -17,6 +17,7 @@ echo "bash if_elif.sh" | at 8:15 PM 30.08.2022
 atq
 
 #crontab is used for running specific tasks on a regular interval
+#we can use crontab.guru web app as option
 #each user can schedule jobs using crontab
 #syntax: minute(s) hour(s) day(s) month(s) weekday(s) username command/script
 #each scheduled job has six fields
